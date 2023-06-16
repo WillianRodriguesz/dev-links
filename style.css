@@ -49,7 +49,7 @@
   animation: slide-in 0.4s forwards;
 }
 
-#switch button:hover{
+#switch button:hover {
   outline: 8px solid var(--highlight-color);
 }
 #switch span {
@@ -152,19 +152,20 @@ footer {
   font-size: 16px;
 }
 
-@keyframes slide-in{
-  from{
+@keyframes slide-in {
+  from {
     left: 0;
   }
-  to{
+  to {
     left: 50%;
   }
 }
 
-@keyframes slide-back{
-  from{
+@keyframes slide-back {
+  from {
     left: 50%;
-  }to{
+  }
+  to {
     left: 0;
   }
 }
