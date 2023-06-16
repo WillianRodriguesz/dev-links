@@ -1,7 +1,7 @@
 <h1 align="center"> Dev-Links </h1>
 
 <p align="center">
-Projeto Web desenvolvido pela Rocketseat para ensino de tecnologias WEB.
+Projeto Web desenvolvido pela Rocketseat para ensino de tecnologias WEB......
 </p>
 
 <p align="center">
