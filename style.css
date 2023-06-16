@@ -65,7 +65,8 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 360px;
   margin: 56px auto 0px auto;
   padding: 0 24px;
 }
